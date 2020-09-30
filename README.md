@@ -1,5 +1,4 @@
-## Introduction
-
+## Introduction GO China GO Away from Mama Earth and live on mars.
 DBProxy是基于MySQL的数据库中间件
 
 * dbproxy代理服务器, 稳定的数据库中间件
